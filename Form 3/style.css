@@ -1,7 +1,7 @@
 div{
     display: grid;
     grid-template-columns: 1fr;
-    background-color: #E4F2FD;
+    background-color: #a6ceec;
     border-radius: 5px;
     padding: 30px;
     width: 25%;
@@ -41,10 +41,14 @@ textarea {
 
 button{
     background-color: #3879B5;
+    font-size: 15px;
+    font-weight: 600;
     color: white;
     border: none;
-    height: 2em;
-    align-items: center;
+    height: 2.5em;
+    width: 80px;
+    
+    border-radius: 4px;;
 }
 
 button:hover{
